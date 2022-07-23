@@ -1,0 +1,1 @@
+java -jar grasscutter-1.2.2-dev.jar
