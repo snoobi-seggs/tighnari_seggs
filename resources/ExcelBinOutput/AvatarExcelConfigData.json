@@ -4066,23 +4066,23 @@
         ],
         "featureTagGroupID": 10000067,
         "infoDescTextMapHash": 2887592185,
-        "hpBase": 1067.7183837890625,
-        "attackBase": 23.274999618530273,
-        "defenseBase": 59.83000183105469,
+        "hpBase": 820.7183837890625,
+        "attackBase": 16.274999618530273,
+        "defenseBase": 49.83000183105469,
         "critical": 0.05000000074505806,
         "criticalHurt": 0.5,
         "propGrowCurves": [
             {
                 "type": "FIGHT_PROP_BASE_HP",
-                "growCurve": "GROW_CURVE_HP_S5"
+                "growCurve": "GROW_CURVE_HP_S4"
             },
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "growCurve": "GROW_CURVE_ATTACK_S5"
+                "growCurve": "GROW_CURVE_ATTACK_S4"
             },
             {
                 "type": "FIGHT_PROP_BASE_DEFENSE",
-                "growCurve": "GROW_CURVE_HP_S5"
+                "growCurve": "GROW_CURVE_HP_S4"
             }
         ],
         "prefabPathRagdollHashSuffix": 345876161,
@@ -4141,23 +4141,23 @@
         ],
         "featureTagGroupID": 10000068,
         "infoDescTextMapHash": 2887592185,
-        "hpBase": 1067.7183837890625,
-        "attackBase": 23.274999618530273,
-        "defenseBase": 59.83000183105469,
+        "hpBase": 1039.7183837890625,
+        "attackBase": 18.774999618530273,
+        "defenseBase": 61.083000183105469,
         "critical": 0.05000000074505806,
         "criticalHurt": 0.5,
         "propGrowCurves": [
             {
                 "type": "FIGHT_PROP_BASE_HP",
-                "growCurve": "GROW_CURVE_HP_S5"
+                "growCurve": "GROW_CURVE_HP_S4"
             },
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
-                "growCurve": "GROW_CURVE_ATTACK_S5"
+                "growCurve": "GROW_CURVE_ATTACK_S4"
             },
             {
                 "type": "FIGHT_PROP_BASE_DEFENSE",
-                "growCurve": "GROW_CURVE_HP_S5"
+                "growCurve": "GROW_CURVE_HP_S4"
             }
         ],
         "prefabPathRagdollHashSuffix": 345876161,
@@ -4216,9 +4216,9 @@
         ],
         "featureTagGroupID": 10000069,
         "infoDescTextMapHash": 2887592185,
-        "hpBase": 1067.7183837890625,
-        "attackBase": 23.274999618530273,
-        "defenseBase": 59.83000183105469,
+        "hpBase": 845.183837890625,
+        "attackBase": 21.0000074999618530273,
+        "defenseBase": 49.000183105469,
         "critical": 0.05000000074505806,
         "criticalHurt": 0.5,
         "propGrowCurves": [

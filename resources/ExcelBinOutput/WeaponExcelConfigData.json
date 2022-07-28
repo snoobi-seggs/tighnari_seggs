@@ -7790,8 +7790,8 @@
                 "type": "GROW_CURVE_ATTACK_304"
             },
             {
-                "propType": "FIGHT_PROP_CRITICAL_HURT",
-                "initValue": 0.19200000166893005,
+                "propType": "FIGHT_PROP_CRITICAL",
+                "initValue": 0.09600000083446503,
                 "type": "GROW_CURVE_CRITICAL_301"
             }
         ],
