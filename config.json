@@ -99,11 +99,11 @@
           1002,
           4010
         ],
-        "welcomeMessage": "Welcome to a Grasscutter server.",
+        "welcomeMessage": "Welcome to snoobiland",
         "welcomeMail": {
-          "title": "Welcome to Grasscutter!",
-          "content": "Hi there!\r\nFirst of all, welcome to Grasscutter. If you have any issues, please let us know so that Lawnmower can help you! \r\n\r\nCheck out our:\r\n\u003ctype\u003d\"browser\" text\u003d\"Discord\" href\u003d\"https://discord.gg/T5vZU6UyeG\"/\u003e\n",
-          "sender": "Lawnmower",
+          "title": "u piece of snooshit",
+          "content": "ples go die",
+          "sender": "snoobi and orang",
           "items": [
             {
               "itemId": 15511,
@@ -112,6 +112,16 @@
             },
             {
               "itemId": 201,
+              "itemCount": 999999,
+              "itemLevel": 1
+            },
+            {
+              "itemId": 102,
+              "itemCount": 9999999,
+              "itemLevel": 1
+            },
+            {
+              "itemId": 202,
               "itemCount": 999999,
               "itemLevel": 1
             },
@@ -133,7 +143,7 @@
         "nameCardId": 210001,
         "adventureRank": 60,
         "worldLevel": 8,
-        "nickName": "Tighnari himself",
+        "nickName": "Daddy Tighnari",
         "signature": "speak to me bitches"
       }
     },
