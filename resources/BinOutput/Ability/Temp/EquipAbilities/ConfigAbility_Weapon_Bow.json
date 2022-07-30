@@ -4963,4 +4963,11 @@
             "FEFIHIEHDOM": true
         }
     }
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "Weapon_Bow_SumeruBow",
+            "FEFIHIEHDOM": true
+        }
+    }
 ]

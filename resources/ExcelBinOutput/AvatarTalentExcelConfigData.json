@@ -789,6 +789,137 @@
         ]
     },
     {
+    "talentId": 111,
+    "nameTextMapHash": 712206481,
+    "descTextMapHash": 2010794039,
+    "icon": "UI_Talent_S_PlayerGrass_01",
+    "mainCostItemId": 913,
+    "mainCostItemCount": 1,
+    "openConfig": "Player_Grass_Constellation_1",
+    "addProps": [
+        {},
+        {}
+    ],
+    "paramList": [
+        3.50,
+        0,
+        0,
+        0,
+        0,
+        0
+    ]
+    },
+    {
+    "talentId": 112,
+    "nameTextMapHash": 23741097,
+    "descTextMapHash": 2404048095,
+    "icon": "UI_Talent_S_PlayerGrass_02",
+    "prevTalent": 111,
+    "mainCostItemId": 913,
+    "mainCostItemCount": 1,
+    "openConfig": "Player_Grass_Constellation_2",
+    "addProps": [
+        {},
+        {}
+    ],
+    "paramList": [
+        3.0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ]
+    },
+    {
+    "talentId": 113,
+    "nameTextMapHash": 3477728697,
+    "descTextMapHash": 2609784303,
+    "icon": "UI_Talent_U_PlayerGrass_01",
+    "prevTalent": 112,
+    "mainCostItemId": 913,
+    "mainCostItemCount": 1,
+    "openConfig": "Player_Grass_Constellation_3",
+    "addProps": [
+        {},
+        {}
+    ],
+    "paramList": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ]
+    },
+    {
+    "talentId": 114,
+    "nameTextMapHash": 2462745745,
+    "descTextMapHash": 3753803103,
+    "icon": "UI_Talent_S_PlayerGrass_03",
+    "prevTalent": 113,
+    "mainCostItemId": 913,
+    "mainCostItemCount": 1,
+    "openConfig": "Player_Grass_Constellation_4",
+    "addProps": [
+        {},
+        {}
+    ],
+    "paramList": [
+        5,
+        0,
+        0,
+        0,
+        0,
+        0
+    ]
+    },
+    {
+    "talentId": 115,
+    "nameTextMapHash": 2241540777,
+    "descTextMapHash": 1981840967,
+    "icon": "UI_Talent_U_PlayerGrass_02",
+    "prevTalent": 114,
+    "mainCostItemId": 913,
+    "mainCostItemCount": 1,
+    "openConfig": "Player_Grass_Constellation_5",
+    "addProps": [
+        {},
+        {}
+    ],
+    "paramList": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ]
+    },
+    {
+    "talentId": 116,
+    "nameTextMapHash": 1885207465,
+    "descTextMapHash": 1464554295,
+    "icon": "UI_Talent_S_PlayerGrass_04",
+    "prevTalent": 115,
+    "mainCostItemId": 913,
+    "mainCostItemCount": 1,
+    "openConfig": "Player_Grass_Constellation_6",
+    "addProps": [
+        {},
+        {}
+    ],
+    "paramList": [
+        0.11999999731779099,
+        0.11999999731779099,
+        0,
+        0,
+        0,
+        0
+    ]
+    },
+    {
         "talentId": 141,
         "nameTextMapHash": 696499609,
         "descTextMapHash": 1541078791,

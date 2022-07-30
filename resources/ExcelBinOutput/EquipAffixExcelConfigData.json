@@ -15509,6 +15509,245 @@
             0.0
         ]
     },
+        {
+        "affixId": 1155110,
+        "id": 115511,
+        "nameTextMapHash": 665618219,
+        "descTextMapHash": 2574022001,
+        "openConfig": "Weapon_Bow_SumeruBow",
+        "addProps": [
+            {
+                "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+                "value": 0.11999999731779099
+            },
+            {
+                "propType": "FIGHT_PROP_WIND_ADD_HURT",
+                "value": 0.11999999731779099
+            },
+            {
+                "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+                "value": 0.11999999731779099
+            },
+            {
+                "propType": "FIGHT_PROP_ICE_ADD_HURT",
+                "value": 0.11999999731779099
+            },
+            {
+                "propType": "FIGHT_PROP_WATER_ADD_HURT",
+                "value": 0.11999999731779099
+            },
+            {
+                "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+                "value": 0.11999999731779099
+            },
+            {
+                "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+                "value": 0.11999999731779099
+            }
+        ],
+        "paramList": [
+            0.11999999731779099,
+            1.6,
+            12.0,
+            10.0,
+            12.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1155111,
+        "id": 115511,
+        "level": 1,
+        "nameTextMapHash": 1836768195,
+        "descTextMapHash": 2860268457,
+        "openConfig": "Weapon_Bow_SumeruBow",
+        "addProps": [
+            {
+                "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+                "value": 0.15000000596046448
+            },
+            {
+                "propType": "FIGHT_PROP_WIND_ADD_HURT",
+                "value": 0.15000000596046448
+            },
+            {
+                "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+                "value": 0.15000000596046448
+            },
+            {
+                "propType": "FIGHT_PROP_ICE_ADD_HURT",
+                "value": 0.15000000596046448
+            },
+            {
+                "propType": "FIGHT_PROP_WATER_ADD_HURT",
+                "value": 0.15000000596046448
+            },
+            {
+                "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+                "value": 0.15000000596046448
+            },
+            {
+                "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+                "value": 0.15000000596046448
+            }
+        ],
+        "paramList": [
+            0.15000000596046448,
+            2.0,
+            12.0,
+            10.0,
+            12.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1155112,
+        "id": 115511,
+        "level": 2,
+        "nameTextMapHash": 3401288155,
+        "descTextMapHash": 4062998585,
+        "openConfig": "Weapon_Bow_SumeruBow",
+        "addProps": [
+            {
+                "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+                "value": 0.18000000715255737
+            },
+            {
+                "propType": "FIGHT_PROP_WIND_ADD_HURT",
+                "value": 0.18000000715255737
+            },
+            {
+                "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+                "value": 0.18000000715255737
+            },
+            {
+                "propType": "FIGHT_PROP_ICE_ADD_HURT",
+                "value": 0.18000000715255737
+            },
+            {
+                "propType": "FIGHT_PROP_WATER_ADD_HURT",
+                "value": 0.18000000715255737
+            },
+            {
+                "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+                "value": 0.18000000715255737
+            },
+            {
+                "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+                "value": 0.18000000715255737
+            }
+        ],
+        "paramList": [
+            0.18000000715255737,
+            2.4,
+            12.0,
+            10.0,
+            12.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1155113,
+        "id": 115511,
+        "level": 3,
+        "nameTextMapHash": 859975251,
+        "descTextMapHash": 2433578777,
+        "openConfig": "Weapon_Bow_SumeruBow",
+        "addProps": [
+            {
+                "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+                "value": 0.20999999344348907
+            },
+            {
+                "propType": "FIGHT_PROP_WIND_ADD_HURT",
+                "value": 0.20999999344348907
+            },
+            {
+                "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+                "value": 0.20999999344348907
+            },
+            {
+                "propType": "FIGHT_PROP_ICE_ADD_HURT",
+                "value": 0.20999999344348907
+            },
+            {
+                "propType": "FIGHT_PROP_WATER_ADD_HURT",
+                "value": 0.20999999344348907
+            },
+            {
+                "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+                "value": 0.20999999344348907
+            },
+            {
+                "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+                "value": 0.20999999344348907
+            }
+        ],
+        "paramList": [
+            0.20999999344348907,
+            2.8,
+            12.0,
+            10.0,
+            12.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "affixId": 1155114,
+        "id": 115511,
+        "level": 4,
+        "nameTextMapHash": 3966753539,
+        "descTextMapHash": 4260110017,
+        "openConfig": "Weapon_Bow_SumeruBow",
+        "addProps": [
+            {
+                "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+                "value": 0.23999999463558197
+            },
+            {
+                "propType": "FIGHT_PROP_WIND_ADD_HURT",
+                "value": 0.23999999463558197
+            },
+            {
+                "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+                "value": 0.23999999463558197
+            },
+            {
+                "propType": "FIGHT_PROP_ICE_ADD_HURT",
+                "value": 0.23999999463558197
+            },
+            {
+                "propType": "FIGHT_PROP_WATER_ADD_HURT",
+                "value": 0.23999999463558197
+            },
+            {
+                "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+                "value": 0.23999999463558197
+            },
+            {
+                "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+                "value": 0.23999999463558197
+            }
+        ],
+        "paramList": [
+            0.23999999463558197,
+            3.2,
+            12.0,
+            10.0,
+            12.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
     {
         "affixId": 1155090,
         "id": 115509,

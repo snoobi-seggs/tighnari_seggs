@@ -3103,7 +3103,8 @@
             "Weapon_Bow_Worldbane",
             "Weapon_Bow_Maria",
             "Weapon_Bow_Kirin",
-            "Weapon_Bow_FallenSun"
+            "Weapon_Bow_FallenSun",
+            "Weapon_Bow_SumeruBow"
         ],
         "Data/_BinOutput/Ability/Temp/EquipAbilities/ConfigAbility_Weapon_Catalyst": [
             "Weapon_Catalyst_DamageUpToEnemy",
